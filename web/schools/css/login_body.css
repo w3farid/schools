@@ -1,0 +1,40 @@
+
+body {
+	background-color: #446;
+	color: white;
+}
+form {
+	background-color: white;
+	width: 250px;
+	padding: 20px;
+	margin: 10px;
+	border: 1px solid #999;
+}
+#combo_item {
+	width: 250px;
+	height: 29px;
+	border: 1px solid blue;
+}
+#txt_username {
+	width: 246px;
+	height: 29px;
+	border: 1px solid blue;
+}
+#txt_pass {
+	width: 246px;
+	height: 29px;
+	border: 1px solid blue;
+}
+#btn_login {
+	width: 250px;
+	height: 29px;
+	border: 1px solid blue;
+	background-color: #446;
+	color: white;
+	font-size: 16px;
+}
+#loginForm {
+	overflow: hidden;
+	margin-left: 43%;
+	margin-top: 232px;
+}
